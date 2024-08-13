@@ -1,7 +1,7 @@
 {
     "name": "Preconf AVS by EG",
-    "website": "https://en.wikipedia.org/wiki/Hong_Kong",
+    "website": "https://www.ethgas.com/market/",
     "description": "Enable validator to earn extra yield by providing preconf commitment",
-    "logo": "https://raw.githubusercontent.com/Hong-Kong-Districts-Info/hkdistrictballs/main/man/figures/example-kowloon-city.png",
-    "twitter": "https://twitter.com/discoverhk"
+    "logo": "https://raw.githubusercontent.com/ethgas-developer/ethgas-developer.github.io/main/eg.png",
+    "twitter": "https://twitter.com/ETHGASofficial"
 }
