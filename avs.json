@@ -1,7 +1,7 @@
 {
     "name": "Preconf AVS by EG",
     "website": "https://www.ethgas.com/market/",
-    "description": "Enable validator to earn extra yield by providing preconf commitment",
-    "logo": "https://raw.githubusercontent.com/ethgas-developer/ethgas-developer.github.io/main/eg.png",
+    "description": "Enable validators to earn extra yield by providing preconfirmation commitment",
+    "logo": "https://raw.githubusercontent.com/ethgas-developer/ethgas-developer.github.io/main/eg-logo.jpg",
     "twitter": "https://twitter.com/ETHGASofficial"
 }
