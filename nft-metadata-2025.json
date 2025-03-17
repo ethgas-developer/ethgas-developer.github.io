@@ -1,0 +1,24 @@
+{
+    "name": "ETHGas Preconf NFT #2025",
+    "description": "Unique NFT minted in the first ETHGas Preconf Block on mainnet",
+    "external_url": "https://www.ethgas.com/",
+    "image": "https://ethgas-developer.github.io/logo-4.png",
+    "attributes": [
+        {
+            "trait_type": "#1", 
+            "value": "Whole Blocks & Sequencing"
+        },
+        {
+            "trait_type": "#2", 
+            "value": "Inclusion Preconfs"
+        },
+        {
+            "trait_type": "#3", 
+            "value": "Execution Preconfs"
+        },
+        {
+            "trait_type": "#4", 
+            "value": "Base Fee Futures"
+        }
+    ]
+}
